@@ -1,3 +1,5 @@
+require 'fixnum'
+
 class FizzBuzz
 
   RULES = {'15' => 'FizzBuzz', '5' => 'Buzz', '3' => 'Fizz'}
